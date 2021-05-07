@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="/gif/github.gif">
+ <img src="/gif/github-gray.gif">
 <div>
 
 ## About Me
