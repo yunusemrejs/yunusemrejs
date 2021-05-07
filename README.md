@@ -1,4 +1,4 @@
-![Hi I am Yunus Emre. I am a Junior Web Developer. I'm currently working on Javascript](https://github.com/yunuskrr/yunuskrr/blob/main/gif/github.gif)
+![Hi I am Yunus Emre. I am a Junior Web Developer. I'm currently working on Javascript](/gif/github.gif)
 
 ## About Me
 
