@@ -3,7 +3,7 @@
  <img src="/gif/github-gray.gif">
 <div>
  
- <p align="left"> <a href="https://twitter.com/yunusemrejs" target="blank"><img src="https://img.shields.io/twitter/follow/yunusemrejs?logo=twitter&style=for-the-badge" alt="yunusemrejs" /></a> </p>
+ <p align="center"> <a href="https://twitter.com/yunusemrejs" target="blank"><img src="https://img.shields.io/twitter/follow/yunusemrejs?logo=twitter&style=for-the-badge" alt="yunusemrejs" /></a> </p>
 
 
 ## About Me
