@@ -9,7 +9,7 @@
 
 I'm a passionate front end developer. I love creating innovative and functional websites and being a part of the development Web technology.I have been involved in software development since I was a kid. Programming is my biggest passion.  I am a developer constantly trying to learn something new and find simple solutions to complex problems. I am currently trying to master html and css, I plan to specialize in javascript and improve myself in the near future.
 
- 
+ ## Github Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemrejs&theme=dark" alt="yunusemrejs" /></p>
 
  ## Languages and Tools
