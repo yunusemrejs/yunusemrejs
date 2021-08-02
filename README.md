@@ -19,7 +19,6 @@ I'm a passionate front end developer. I love creating innovative and functional 
 
 ## Contact Me
 <p align="center">
-  <a href="https://www.instagram.com/yunusemre.js"><img src="/icons/Instagram-Logo.png" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/yunusemrejs/"> <img src="/icons/LinkedIn-Logo.wine.png" alt="LinkedIn"/></a>
 </p>
 
